@@ -4,18 +4,18 @@
 Welcome to my github! Iam passionate  System computer engineer with a love for web crawing, process automation, CRM and developer.
 
 ### About me
-:computer: ** Ingeniería en Sistemas Computacionales **
-:pencil: ** Desarrollador Siebel CRM**
-:oncoming_automobile: ** Fan de los autos, carreras y musico**
+:computer: **Ingeniería en Sistemas Computacionales**
+:pencil: **Desarrollador Siebel CRM**
+:oncoming_automobile: **Fan de los autos, carreras y musico**
 :family: **¡El papá mas feliz del mundo!**
-:location: **México**
-:Ask me about: ** Python Jr. Siebel CRM
+location: **México**
+Ask me about: **Python Jr. & Siebel CRM Expert**
 
 ### Skills & Technologies
 Here are some of the tools and technologies I love working whit:
 
 * Languages: Phyton, Java, C#, escript
-* Data Base: Oracle SQL Server, Mongo DB
+* Data Base: Oracle SQL Server 11g, Mongo DB, My SQL
 * Tools: Siebel, GitHub, git, PL 
 
 ### Get in touch
