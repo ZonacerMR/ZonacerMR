@@ -23,4 +23,5 @@ Here are some of the tools and technologies I love working whit:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ZonacerMR/ZonacerMR)
 
-![Python Logo](https://techicons.dev/icons/python.png)
+
+![alt text](image-1.png)
