@@ -21,14 +21,14 @@ Here are some of the tools and technologies I love working whit:
 <img src="image-4.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
 <img src="image-5.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
 <img src="image-6.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
-<img src="image-7.png" alt="Mi imagen" width="30" /> 
+<img src="image-7.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
 </br>
  
 * Data Base: <br> <img src="image-3.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
-<img src="image-8.png" alt="Mi imagen" width="30" /> 
+<img src="image-8.png" alt="Mi imagen" width="30" /> &nbsp;&nbsp;&nbsp;
 </br>
 * Tools: SIEBEL CRM &nbsp;&nbsp;&nbsp; <img src="Oracle.png" alt="Mi imagen" width="50" /> &nbsp;&nbsp;&nbsp;
-Git Hub<img src="image-9.png" alt="Mi imagen" width="50" />
+Git Hub<img src="image-9.png" alt="Mi imagen" width="50" />&nbsp;&nbsp;&nbsp;
 
 ### Let's connect LinkendIn
 
