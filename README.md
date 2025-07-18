@@ -14,7 +14,7 @@ Ask me about: **Python Jr. & Siebel CRM Expert**
 ### Skills & Technologies
 Here are some of the tools and technologies I love working whit:
 
-* Languages: ![Python Logo](https://techicons.dev/icons/python.png)
+* Languages: <img src="image-1.png" alt="Mi imagen" width="30" />
 * Data Base: Oracle SQL Server 11g, Mongo DB, My SQL
 * Tools: Siebel, GitHub, git, PL 
 
@@ -23,5 +23,4 @@ Here are some of the tools and technologies I love working whit:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ZonacerMR/ZonacerMR)
 
-
-![alt text](image-1.png)
+![alt text](image-2.png)
