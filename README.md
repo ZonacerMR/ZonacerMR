@@ -14,7 +14,7 @@ Ask me about: **Python Jr. & Siebel CRM Expert**
 ### Skills & Technologies
 Here are some of the tools and technologies I love working whit:
 
-* Languages: Phyton, Java, C#, escript
+* Languages: ![Python](assets/python.svg)
 * Data Base: Oracle SQL Server 11g, Mongo DB, My SQL
 * Tools: Siebel, GitHub, git, PL 
 
@@ -22,3 +22,5 @@ Here are some of the tools and technologies I love working whit:
 ![Website](https://img.shields.io/website?url=https%3A%2F%2FMisaelRueda.com)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ZonacerMR/ZonacerMR)
+
+
